@@ -531,6 +531,14 @@
   }
 }
 
+/* value section */
+
+.value-section {
+  text-align: center;
+  margin-top: 120px;
+  margin-left: 150%;
+}
+
 .container {
   max-width: 1024px;
   margin-inline: 1.5rem;
